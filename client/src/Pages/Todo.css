@@ -1,0 +1,23 @@
+.todos {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  width: 100%;
+  height: 60vmin;
+}
+
+.todos {
+  font-size: 2rem;
+  display:block;
+  justify-content: center;
+}
+
+.todos>ul{
+  text-decoration: none;
+
+}
+
